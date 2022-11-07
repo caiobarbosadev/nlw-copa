@@ -26,9 +26,9 @@ A Trilha Ignite foi marcada pelo desenvolvimento de três partes (web, server e 
 
 ### Desenvolvido com
 
-* React JS
-* React Native
-* Node JS
+* React JS [https://github.com/caiobarbosadev/nlw-copa-web](https://github.com/caiobarbosadev/nlw-copa-web)
+* React Native [https://github.com/caiobarbosadev/nlw-copa-mobile](https://github.com/caiobarbosadev/nlw-copa-mobile)
+* Node JS [https://github.com/caiobarbosadev/nlw-copa-server](https://github.com/caiobarbosadev/nlw-copa-server)
 
 ## Contribuição
 
@@ -41,7 +41,7 @@ Não se esqueça de dar uma estrela ao projeto! Obrigado novamente!
 
 caio.henrique@sou.unifeob.edu.br
 
-Link do repositório: [https://github.com/caiobarbosadev/nlw-copa](https://github.com/github_username/repo_name)
+Link do repositório: [https://github.com/caiobarbosadev/nlw-copa](https://github.com/caiobarbosadev/nlw-copa)
 
 ## Agradecimentos
 
